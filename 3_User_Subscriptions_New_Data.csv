@@ -1,0 +1,9 @@
+User_Id,Subscription,Price,Location,Pincode
+1,Premium,19.99,New York,10001
+2,Standard,14.99,Los Angeles,90001
+3,Basic,9.99,Chicago,60601
+11,Standard,14.99,Seattle,98101
+12,Premium,19.99,Boston,2101
+13,Basic,9.99,Miami,33101
+14,Standard,14.99,Atlanta,30301
+15,Premium,19.99,Denver,80201
